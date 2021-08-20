@@ -20,11 +20,5 @@ I'm a Software Engineer that focuses on Embedded Systems, Machine Learning, and 
 
 # Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareimGazer)](https://github.com/KareimGazer/github-readme-stats)
+
 [![KareimGazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareimGazer&show_icons=true&theme=radical)](https://github.com/KareimGazer/github-readme-stats)
-
-
-# NEW
-<p align="center">
-  <img width="48%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=KareimGazer)" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KareimGazer&show_icons=true&theme=radicalt" />
-</p>
