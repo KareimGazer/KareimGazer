@@ -23,3 +23,10 @@ I'm a Software Engineer that focuses on Embedded Systems, Machine Learning, and 
 
 [![KareimGazer's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareimGazer&show_icons=true&theme=radical)](https://github.com/KareimGazer/github-readme-stats)
 
+
+
+# NEW
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
+</p>
