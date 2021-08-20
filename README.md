@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # About Me
-I'm a Software Engineer that focuses on Embedded Systems, Machine Learning, and Full Stack Web Development in Agile and Kanban settings. I develop Control Systems using Microcontrollers like ARM-Cortex-M and AVR with RTOS using C/C++. I use Python, TensorFlow, and GCP and AWS clouds to build Machine Learning models for my Embedded Systems. I'm passionate about web services and APIs and I use React and Node.JS to build my web apps.
+I'm a Software Engineer that focuses on Embedded Systems, Machine Learning, and Full Stack Web Development in Agile and Kanban settings. I develop Control Systems using Microcontrollers like ARM-Cortex-M and AVR with RTOS using C/C++. I use Python, TensorFlow, and GCP and AWS to build Machine Learning models for my Embedded Systems. I'm passionate about web services and APIs and I use React and Node.JS to build my web apps.
 
 # Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KareimGazer)](https://github.com/KareimGazer/github-readme-stats)
