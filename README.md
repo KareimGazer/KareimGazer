@@ -27,6 +27,6 @@ I'm a Software Engineer that focuses on Embedded Systems, Machine Learning, and 
 
 # NEW
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eddiejaoude&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KareimGazer&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KareimGazer&theme=tokyonight" />
 </p>
