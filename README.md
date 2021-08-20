@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![KareimGazer Github Stats](https://github-readme-stats.vercel.app/api?username=KareimGazer&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KareimGazer)](https://github.com/KareimGazer/github-readme-stats)
+
