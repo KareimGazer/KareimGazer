@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on implementing AI algorithms, and perception stack for self-driving cars.
-- 🌱 I’m currently learning Neural Networks, AI, Image Processing, Digital Verification, and Control theory.
+- 🔭 I’m currently working on Deploying ML models, and building new applications with ML APIs.
+- 🌱 I’m currently learning Neural Networks, AI, Image Processing.
 - 👯 I’m looking to collaborate on autonomous systems.
-- 🤔 I’m looking for help with SVM & Networks.
-- 📝 I regularly write articles on https://dev.to/kareimgazer
+- 🤔 I’m looking for help with MLOps.
+- 📝 I regularly write articles on https://medium.com/@kareimtarek1972
 - 💬 Ask me about C++, GPUs and Machine learning
 
 # About Me
