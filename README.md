@@ -1,5 +1,5 @@
 # Hi there, I'm Kareim Gazer
-Computer engineering student and a Liverpool fan!
+Udacity Tutor and a Liverpool fan!
 
 <!--
 **KareimGazer/KareimGazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
