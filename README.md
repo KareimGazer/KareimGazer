@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on building new machine learning applications.
 - 🌱 I’m currently learning more about Generative AI.
-- 📝 I regularly write articles on https://medium.com/@kareimtarek1972
+- 📝 I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
 - 💬 Ask me about C++, GPUs and Machine learning
 
 # About Me
