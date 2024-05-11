@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 # About Me
 I'm a Computer Vision / Graphics Engineer who works in Agile and Kanban settings.
-I use C/C++, GPUs, Python, and the cloud to build applications.
+I use C/C++, GPUs, Python, and the Cloud to build applications.
 My background is in Machine Learning, Image Processing, Supercomputing, Distributed Systems, and Computer Architecture.
 I'm passionate about machine learning applications and what generative AI can do.
 I believe that the ability to understand visual content paired with LLMs will open new frontiers in the digital media.
