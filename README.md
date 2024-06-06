@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building new machine learning applications.
 - 🌱 I’m currently learning more about Generative AI.
 - 📝 I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
-- 💬 Ask me about C++, GPUs and Machine learning
+- 💬 Ask me about Machine learning, Web Apps, and Computer Graphics.
 
 # About Me
 I'm a Computer Vision / Graphics Engineer who works in Agile and Kanban settings.
