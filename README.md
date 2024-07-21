@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- see my ML apps on HuggingFace
+- see my docker images on the docker hub
+- see my rank on leetcode
+- look at my Kaggle record
 -->
 - 🔭 I’m currently working on building new machine learning applications.
 - 🌱 I’m currently learning more about Generative AI.
