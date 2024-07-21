@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about Machine learning, Web Apps, and Computer Graphics.
 
 # About Me
-I'm a Computer Vision / Graphics Engineer who works in Agile and Kanban settings.
-I use C/C++, GPUs, Python, and the Cloud to build applications.
-My background is in Machine Learning, Image Processing, Supercomputing, Distributed Systems, and Computer Architecture.
-I'm passionate about machine learning applications and what generative AI can do.
-I believe that the ability to understand visual content paired with LLMs will open new frontiers in the digital media.
+I'm a Computer Vision Applications Engineer who works in Agile and Kanban settings. I regularly blog on [medium](https://medium.com/@kareimtarek1972).
+I use C/C++, GPUs, Python, and the Cloud to build my applications.
+
+I hold a BSc degree in computer engineering and systems design from Ain Shams University. This is where I studied AI, Software Engineering, Image Processing, Computer Architecture, Operating Systems, Embedded Systems, and Computer Networks.
+
+I'm an entrepreneur at heart and passionate about machine learning applications and what generative AI can do.
+I have 2+ years of tutoring experience at Udacity, guiding many people in building their machine-learning projects using AWS.
+I believe that the ability to understand visual content paired with LLMs will open new frontiers in digital media.
+
 
 # Languages and Tools:
 <div align="left">
