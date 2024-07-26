@@ -1,4 +1,4 @@
-# Hi there, I'm Kareim Gazer
+# Hi there, I'm Kareim Tarek
 Udacity Tutor and a Liverpool fan!
 
 <!--
