@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - look at my Kaggle record
 -->
 - 🛠️ I’m currently working on building new machine-learning applications.
-- 🧠 I’m currently learning more about Generative AI.
+- 📖 I’m currently learning more about Generative AI.
 - ✍️ I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
 - ❓ Ask me about Machine learning, Web Apps, and Computer Graphics.
 - 🧩 I solve algorithms on [leet code](https://leetcode.com/u/KareimGazer/)
