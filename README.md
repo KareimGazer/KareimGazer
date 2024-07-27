@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - see my rank on leetcode
 - look at my Kaggle record
 -->
-- 🔭 I’m currently working on building new machine learning applications.
-- 🌱 I’m currently learning more about Generative AI.
-- 📝 I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
-- 💬 Ask me about Machine learning, Web Apps, and Computer Graphics.
+- 🛠️ I’m currently working on building new machine-learning applications.
+- 🧠 I’m currently learning more about Generative AI.
+- ✍️ I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
+- ❓ Ask me about Machine learning, Web Apps, and Computer Graphics.
+- 🧩 I solve algorithms on [leet code](https://leetcode.com/u/KareimGazer/)
 
 # About Me
 I'm a Computer Vision Applications Engineer who works in Agile and Kanban settings. I regularly blog on [medium](https://medium.com/@kareimtarek1972).
