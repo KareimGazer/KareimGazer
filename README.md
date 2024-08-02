@@ -121,8 +121,8 @@ I believe that the ability to understand visual content paired with LLMs will op
 ###
 
 # Awesome Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Perception-Stack&bg_color=5f0eec&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Perception-Stack) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Malware-Detector-Repeat&bg_color=5f0eec&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Malware-Detector-Repeat) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Perception-Stack&bg_color=3a2a47&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Perception-Stack) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Malware-Detector-Repeat&bg_color=3a2a47&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Malware-Detector-Repeat) &nbsp;
 
 # Status
 <div align="center">
