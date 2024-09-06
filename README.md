@@ -120,11 +120,9 @@ I believe that the ability to understand visual content paired with LLMs will op
 
 ###
 
-# Awesome Projects
+# Awesome Cooperations
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=XML-Parser&bg_color=3a2a47&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/XML-Parser) &nbsp;
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Malware-Detector-Repeat&bg_color=3a2a47&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Malware-Detector-Repeat) &nbsp;
--->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KareimGazer&repo=Tiny-Scanner&bg_color=3a2a47&title_color=ec0ec0&text_color=a4aacb&icon_color=007ec6)](https://github.com/KareimGazer/Tiny-Scanner) &nbsp;
 
 # Status
 <div align="center">
