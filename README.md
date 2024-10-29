@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - ✍️ I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
 - 🧩 I solve algorithms on [leet code](https://leetcode.com/u/KareimGazer/)
 - 🐋 Have a look at the container images of my applications on [DockerHub](https://hub.docker.com/repositories/1701002).
+- 📦 Use my [npm packages](https://www.npmjs.com/settings/kareimgazer/packages) 
 - ✉️ Send a message to my <a href="mailto:kareimtarek1972@gmail.com">Email</a>
 
 # About Me
