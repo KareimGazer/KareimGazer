@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - 📦 Use my [npm packages](https://www.npmjs.com/settings/kareimgazer/packages) 
 - ✉️ Send a message to my <a href="mailto:kareimtarek1972@gmail.com">Email</a>
 
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="60%">
+
 # About Me
 I'm an AI Software Engineer who works in Agile and Kanban settings. I regularly blog on [Medium](https://medium.com/@kareimtarek1972).
 I use C/C++, GPUs, Python, and the Cloud to build my applications.
