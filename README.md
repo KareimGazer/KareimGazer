@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="60%">
 
 # About Me
-I'm an AI Software Engineer who works in Agile and Kanban settings. I regularly blog on [Medium](https://medium.com/@kareimtarek1972).
-I use C/C++, GPUs, Python, and the Cloud to build my applications.
+I'm a Software Engineer who works in Agile and Kanban settings. I regularly blog on [Medium](https://medium.com/@kareimtarek1972).
+I use JavaScript, Python, and the Cloud to build my cloud-native applications.
 
 I hold a BSc degree in computer engineering and systems design from Ain Shams University. This is where I studied AI, Software Engineering, Image Processing, Computer Architecture, Operating Systems, Embedded Systems, and Computer Networks.
 
