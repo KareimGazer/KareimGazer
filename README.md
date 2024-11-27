@@ -1,33 +1,13 @@
 # Hi there, I'm Kareim Tarek
-Udacity Session Lead and a Liverpool fan!
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 
-<!--
-**KareimGazer/KareimGazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- see my ML apps on HuggingFace
-- look at my Kaggle record
-- StackOverflow
--->
-- 🛠️ I’m working on building new machine learning applications.
-- 📖 I’m currently learning more about Generative AI.
-- ❓ Ask me about Machine Learning and web Applications.
+- 🛠️ I Build microservices and infrastructure for AI.
+- 📖 I’m currently learning more about Kubernetes.
 - ✍️ I regularly write articles on [medium](https://medium.com/@kareimtarek1972)
 - 🧩 I solve algorithms on [leet code](https://leetcode.com/u/KareimGazer/)
 - 🐋 Have a look at the container images of my applications on [DockerHub](https://hub.docker.com/repositories/1701002).
 - 📦 Use my [npm packages](https://www.npmjs.com/settings/kareimgazer/packages) 
 - ✉️ Send a message to my <a href="mailto:kareimtarek1972@gmail.com">Email</a>
-
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="60%">
 
 # About Me
 I'm a Software Engineer who works in Agile and Kanban settings. I regularly blog on [Medium](https://medium.com/@kareimtarek1972).
@@ -129,11 +109,11 @@ I believe that the ability to understand visual content paired with LLMs will op
 
 # Status
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KareimGazer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=KareimGazer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KareimGazer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=KareimGazer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=KareimGazer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KareimGazer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KareimGazer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
