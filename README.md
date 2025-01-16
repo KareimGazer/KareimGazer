@@ -16,7 +16,7 @@ I use JavaScript, Python, and the Cloud to build my cloud-native applications.
 I hold a BSc degree in computer engineering and systems design from Ain Shams University. This is where I studied AI, Software Engineering, Image Processing, Computer Architecture, Operating Systems, Embedded Systems, and Computer Networks.
 
 I'm an entrepreneur at heart and passionate about machine learning applications and what generative AI can do.
-I have 2+ years of tutoring experience at Udacity, guiding many people in building their machine-learning projects using AWS.
+I have 3+ years of mentoring experience at Udacity, guiding many people in building their machine-learning projects using AWS.
 I believe that the ability to understand visual content paired with LLMs will open new frontiers in digital media.
 
 
