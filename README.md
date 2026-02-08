@@ -10,8 +10,6 @@ I hold a BSc degree in computer and systems engineering from Ain Shams Universit
 I'm an entrepreneur at heart, passionate about machine learning applications and the potential of generative AI.
 I have 4+ years of mentoring experience at Udacity, guiding many people in building their machine-learning projects using AWS.
 I believe that the ability to understand visual content paired with LLMs will open new frontiers in digital media.
-
-
 # Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -73,8 +71,6 @@ I believe that the ability to understand visual content paired with LLMs will op
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
-###
-
 # Status
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=KareimGazer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -84,4 +80,3 @@ I believe that the ability to understand visual content paired with LLMs will op
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KareimGazer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
 </div>
 
-###
