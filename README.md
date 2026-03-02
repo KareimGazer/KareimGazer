@@ -1,7 +1,7 @@
-# It's me, Kareim
+## It's me, Kareim
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
 
-# About Me
+## About Me
 I'm a Cloud Software Engineer who works in Agile settings. I regularly blog on [Medium](https://medium.com/@kareimtarek1972).
 I use JavaScript, Python, and the Cloud to build my cloud-native applications.
 
@@ -10,7 +10,7 @@ I hold a BSc degree in computer and systems engineering from Ain Shams Universit
 I'm an entrepreneur at heart, passionate about machine learning applications and the potential of generative AI.
 I have 4+ years of mentoring experience at Udacity, guiding many people in building their machine-learning projects using AWS.
 I believe that the ability to understand visual content paired with LLMs will open new frontiers in digital media.
-# Languages and Tools:
+## Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -71,7 +71,7 @@ I believe that the ability to understand visual content paired with LLMs will op
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
 </div>
 
-# Status
+## Status
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareimGazer&theme=dracula" height="150" alt="streak graph" />
   <img src="https://readme-stats-fast.vercel.app/api?username=KareimGazer&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
