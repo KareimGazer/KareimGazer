@@ -75,7 +75,7 @@ I believe that the ability to understand visual content paired with LLMs will op
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareimGazer&theme=dracula" height="150" alt="streak graph" />
   <img src="https://readme-stats-fast.vercel.app/api?username=KareimGazer&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KareimGazer&theme=dracula"  alt="trophy graph" />
+  <!-- <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=KareimGazer&theme=dracula"  alt="trophy graph" /> -->
   <!-- <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=KareimGazer&layout=compact&theme=dracula" height="150" alt="languages graph" /> -->
 </div>
 
